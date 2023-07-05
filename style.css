@@ -1,0 +1,120 @@
+.bdy{
+    background-color: black;
+}
+
+ul{
+    display: flex;
+    list-style: none;
+    margin-left: 10%;
+    font-size: larger;
+    justify-content: space-between;
+    margin-right: 10%;
+    color: white;
+    margin-top: 5%;
+
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.img{
+    width: 10%;
+    height: 10%;
+    border-radius: 50%;
+}
+.img2{
+    width: 80%;
+    height: 110%;
+    border-radius: 10%;
+    float: right;
+}
+.mg2{
+    float: right;
+}
+.begi{
+    color: white;
+}
+.sec{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 5%;
+    color: white;
+    font-size: x-large;
+}
+.link{
+    margin-left: 40%;
+    padding: 2%;
+    background-color: black;
+    color: white;
+    border-color: red;
+    padding-left: 4%;
+    padding-right: 4%;
+    margin-top: 8%;
+}
+.nam{
+   color: goldenrod;
+   margin-left: 20%;
+}
+.abtm{
+    width: 120%;
+    height: 120%;
+    border-radius: 50%;
+}
+.me{
+    color: white;
+    font-size: x-large;
+
+}
+.abtme{
+    display: flex;
+    margin-left: 10%;
+    margin-top: 3%;
+}
+.det{
+    margin-left: 10%;
+}
+.cont{
+    color: white;
+    
+}
+.con{
+    /* margin-left: 10%; */
+    /* margin-top: 5%; */
+}
+.sof{
+    font-size: medium;
+}
+.cono{
+    /* display: flex; */
+}
+.cno{
+    display: flex;
+    margin-left: 15%;
+    margin-top: 5%;
+    color: white;
+}
+.ion{
+    width: 20%;
+    height: 20%;
+    color: red;
+}
+.io{
+    margin-left: 10%;
+    margin-top: 2%;
+    color: white;
+    
+}
+#inpu{
+    background-color:black;
+    padding: 15%;
+    padding-right: 100%;
+    color: white;
+}
+#input{
+    background-color:black;
+    padding: 15%;
+    padding-right: 100%;
+    padding-bottom: 50%;
+    color: white;
+}
